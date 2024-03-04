@@ -83,7 +83,7 @@ _To find your IP address: Open Command Prompt on your computer and type “ipcon
    
     
 
-**🤯_If you are having trouble seeing your iPhone under the LiveLink Source in UE, you can apply these solutions:_**
+**_If you are having trouble seeing your iPhone under the LiveLink Source in UE, you can apply these solutions:🤯_**
 
 1.	Switching your Network Profile to Private
    
