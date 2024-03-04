@@ -15,7 +15,7 @@ Example video of the facial animation of one of the metahumans in the current pr
    
 <img src="./images/FaceRecording_gif.gif" alt="FaceRecording_gif" width="500"/>
    
-**Preparation:**
+**Preparation:🚨**
    
 •	Make sure that the Metahuman Plugin and LiveLink Plugin are already installed.
    
@@ -29,7 +29,7 @@ Example video of the facial animation of one of the metahumans in the current pr
    
 •	Make sure your iPhone and computer are connected to the same wi-fi network.
    
-**LiveLink Face App:**
+**LiveLink Face App:📱**
    
 1.	In the LiveLink Face App, choose “LiveLink(ARKit)” and proceed by clicking “Continue”.
    
@@ -43,7 +43,7 @@ _To find your IP address: Open Command Prompt on your computer and type “ipcon
    
 5.	After typing your IP address on your LiveLink Face App, proceed to the next steps in UE.
    
-**Unreal Engine:**
+**Unreal Engine:💻**
    
 1.	In Unreal Engine 5. Go to “Window” > “Virtual Production” > “LiveLink”.
    
@@ -53,9 +53,9 @@ _To find your IP address: Open Command Prompt on your computer and type “ipcon
    
 4.	Enable “UseARKit Face” and select your iPhone under ARKit Face Subj. 
    
-5.	Your Metahuman should now mimic your facial expressions.
+5.	Your Metahuman should now mimic your facial expressions.😮😃🤔😂
    
-**HOW TO RECORD THE FACIAL ANIMATION OF THE METAHUMAN IN UE?**
+**HOW TO RECORD THE FACIAL ANIMATION OF THE METAHUMAN IN UE?🎥**
   
 1.	Add “Level Sequencer” to your UE Project.
    
@@ -79,11 +79,11 @@ _To find your IP address: Open Command Prompt on your computer and type “ipcon
    
 11.	Go to “Animation” and select the animation you have just recorded.
    
-12.	You can now play your recorded facial animation.
+12.	You can now play your recorded facial animation.🥳👏🌟
    
     
 
-**_If you are having trouble seeing your iPhone under the LiveLink Source in UE, you can apply these solutions:_**
+**🤯_If you are having trouble seeing your iPhone under the LiveLink Source in UE, you can apply these solutions:_**
 
 1.	Switching your Network Profile to Private
    
