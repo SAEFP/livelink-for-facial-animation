@@ -4,13 +4,16 @@
 
 - Livelink is a feature of Unreal Engine enabling real-time data streaming from external sources. It enables live facial animation capture, motion capture and other dynamic data inputs to be directly applied to a virtual character which enhances its the realism and expressiveness.   
    
-   
+Example of real time data streaming through LiveLink:
+    
 <img src="./images/livelinkface_gif.gif" alt="livelinkface_gif" width="300"/>
      
    
 - In this project, the aim of using Live Link Face application is to capture high-fidelity facial animation from an actor through iPhone and then transfer it to the metahuman in real time.
    
+Example video of the facial animation of one of the metahumans in the current project in Unreal Engine 5:  
    
+<img src="./images/FaceRecording_gif.gif" alt="FaceRecording_gif" width="500"/>
    
 **Preparation:**
    
@@ -79,8 +82,8 @@ _To find your IP address: Open Command Prompt on your computer and type “ipcon
 12.	You can now play your recorded facial animation.
    
     
-    
-_If you are having trouble seeing your iPhone under the LiveLink Source in UE, you can apply these solutions:_
+
+**_If you are having trouble seeing your iPhone under the LiveLink Source in UE, you can apply these solutions:_**
 
 1.	Switching your Network Profile to Private
    
@@ -91,7 +94,8 @@ Communication ports needs to be open to have a proper connection between Unreal 
 P11111 is a UDP port that Unreal Engine LiveLink feature uses to communicate with the devices on the network. Opening this port from computer`s firewall for the specific IP address of your phone can result flowing of data between UE and your phone. 
    
       
-_References_
+_References_   
+   
 Reference of the gif: https://dev.alexdjulin.ovh/livelinkface-to-unreal-metahuman-retarget    
 Link of the LiveLink Face app: https://apps.apple.com/us/app/live-link-face/id1495370836
 Link of the YouTube video that I used for recording facial animations: https://www.youtube.com/watch?v=_1iWOOKgO4E&
