@@ -96,9 +96,11 @@ P11111 is a UDP port that Unreal Engine LiveLink feature uses to communicate wit
       
 _References_   
    
-Reference of the gif: https://dev.alexdjulin.ovh/livelinkface-to-unreal-metahuman-retarget    
-Link of the LiveLink Face app: https://apps.apple.com/us/app/live-link-face/id1495370836
-Link of the YouTube video that I used for recording facial animations: https://www.youtube.com/watch?v=_1iWOOKgO4E&
+Reference of the gif: https://dev.alexdjulin.ovh/livelinkface-to-unreal-metahuman-retarget  
+
+Link of the LiveLink Face app: https://apps.apple.com/us/app/live-link-face/id1495370836  
+
+Link of the video that I used for recording facial animations: https://www.youtube.com/watch?v=_1iWOOKgO4E&
 
 
 
